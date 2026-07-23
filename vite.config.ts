@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './', // Added to fix asset pathing & MIME type errors on Cloudflare Pages
+    base: '/', // Added to fix asset pathing & MIME type errors on Cloudflare Pages
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
