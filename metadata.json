@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Modern Weather Intelligence app providing live current weather, 7-day forecast trends, interactive charts, and smart actionable planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
